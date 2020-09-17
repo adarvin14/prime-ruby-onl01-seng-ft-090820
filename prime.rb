@@ -1,2 +1,3 @@
 def prime?(number)
-  return false if 
+  return false if number < 2
+  return false if !number |integer|
