@@ -3,8 +3,6 @@ def prime?(n)
     false
   elsif !number.integer
    false
-  elsif if number/2 == !integer
-    false
   else
     true
   end
