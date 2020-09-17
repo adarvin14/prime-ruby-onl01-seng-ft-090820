@@ -1,1 +1,2 @@
-# Add  code here!
+def prime?(number)
+  return false if 
